@@ -1,0 +1,6 @@
+1	Saree
+0	900
+2	Shirt
+8	500
+2	Shirt
+8	500
